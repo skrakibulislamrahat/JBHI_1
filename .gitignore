@@ -1,0 +1,12 @@
+# Training artifacts
+checkpoints/
+logs/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.npz
+
+# OS junk
+.DS_Store
+__pycache__/
