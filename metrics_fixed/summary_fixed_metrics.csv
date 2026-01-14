@@ -1,0 +1,2 @@
+dataset,split,seed,N,Brier,ECE_predconf_15,ECE_posprob_15,csv,metrics_json,reliability_png
+Messidor2,external_uncalibrated,0,1058,0.29016974350112307,0.2683099802576414,0.26830998025764136,/content/drive/MyDrive/JBHI_1/metrics/resnet18/ccr/external/messidor2/seed_0_messidor2_probs_uncalibrated.csv,/content/drive/MyDrive/JBHI_1/metrics_fixed/seed_0_messidor2_uncal_metrics_fixed.json,/content/drive/MyDrive/JBHI_1/metrics_fixed/seed_0_messidor2_reliability_predconf_fixed.png

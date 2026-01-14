@@ -1,0 +1,10 @@
+{
+  "dataset": "Messidor2",
+  "split": "external_uncalibrated",
+  "seed": 0,
+  "N": 1058,
+  "Brier": 0.29016974350112307,
+  "ECE_predconf_15": 0.2683099802576414,
+  "ECE_posprob_15": 0.26830998025764136,
+  "csv": "/content/drive/MyDrive/JBHI_1/metrics/resnet18/ccr/external/messidor2/seed_0_messidor2_probs_uncalibrated.csv"
+}

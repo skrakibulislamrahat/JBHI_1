@@ -1,0 +1,59 @@
+{
+  "project_base_dir": "/content/drive/MyDrive/JBHI_1",
+  "paths": {
+    "aptos_dir": "/content/drive/MyDrive/JBHI_1/Datasets/APTOS_2019",
+    "messidor2_zip": "/content/drive/MyDrive/JBHI_1/Datasets/Messidor_2.zip"
+  },
+  "datasets": {
+    "aptos_2019": {
+      "role": "train_internal_eval"
+    },
+    "messidor_2": {
+      "role": "external_eval_only",
+      "source": "zip"
+    }
+  },
+  "splits": {
+    "aptos": {
+      "train": 0.7,
+      "val": 0.1,
+      "test": 0.2,
+      "stratified": true
+    }
+  },
+  "architectures": [
+    "resnet18",
+    "efficientnet_b0",
+    "vit_small"
+  ],
+  "training_regimes": [
+    "baseline",
+    "ccr"
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "perturbation_tolerance": {
+    "rule": "AUC_original \u2212 AUC_T_nc \u2264 0.02",
+    "locked": true
+  },
+  "metrics_required": [
+    "AUC",
+    "Accuracy",
+    "ECE",
+    "Brier",
+    "\u0394AUC",
+    "\u0394ECE",
+    "SDI"
+  ],
+  "artifact_rules": {
+    "no_fabrication": true,
+    "one_pass": true,
+    "drive_is_source_of_truth": true
+  },
+  "created_utc": "2025-12-21T08:05:43Z"
+}

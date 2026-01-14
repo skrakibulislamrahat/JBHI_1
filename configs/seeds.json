@@ -1,0 +1,12 @@
+{
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "created_utc": "2025-12-21T08:05:20Z",
+  "unit_definition": "(architecture \u00d7 training_regime \u00d7 seed)",
+  "minimum_seeds_per_config": 5
+}

@@ -1,0 +1,9 @@
+{
+  "cand_name": "cand_03_lccr0.05_lp1.0_lc1.0_m0.5",
+  "lambda_ccr": 0.05,
+  "lambda_p": 1.0,
+  "lambda_c": 1.0,
+  "margin_m": 0.5,
+  "best_val_sup_loss": 0.1774232475178652,
+  "best_ckpt_path": "/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_03_lccr0.05_lp1.0_lc1.0_m0.5/best.pt"
+}

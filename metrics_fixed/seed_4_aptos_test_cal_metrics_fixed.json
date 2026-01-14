@@ -1,0 +1,9 @@
+{
+  "dataset": "APTOS_test",
+  "split": "test_calibrated",
+  "seed": 4,
+  "N": 733,
+  "Brier": 0.06156448976234304,
+  "ECE15": 0.022281065908792426,
+  "csv": "/content/drive/MyDrive/JBHI_1/metrics/resnet18/ccr/calibration/seed_4_aptos_test_probs_calibrated.csv"
+}

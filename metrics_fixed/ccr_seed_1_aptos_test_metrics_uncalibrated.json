@@ -1,0 +1,11 @@
+{
+  "tag": "ccr",
+  "seed": 1,
+  "N": 733,
+  "AUC": 0.9782380621769652,
+  "Accuracy": 0.9249658935879945,
+  "ECE15": 0.0715330613505141,
+  "Brier": 0.057796778468657654,
+  "ckpt": "/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr/seed_1/best.pt",
+  "loaded_overlap": 122
+}

@@ -1,0 +1,11 @@
+{
+  "tag": "baseline",
+  "seed": 2,
+  "N": 733,
+  "AUC": 0.9796034868471805,
+  "Accuracy": 0.9208731241473397,
+  "ECE15": 0.020831381537946184,
+  "Brier": 0.05547900658181862,
+  "ckpt": "/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/baseline/seed_2/best.pt",
+  "loaded_overlap": 122
+}

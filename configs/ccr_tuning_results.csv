@@ -1,0 +1,13 @@
+cand_name,lambda_ccr,lambda_p,lambda_c,margin_m,best_val_sup_loss,best_ckpt_path
+cand_03_lccr0.05_lp1.0_lc1.0_m0.5,0.05,1.0,1.0,0.5,0.1774232475178652,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_03_lccr0.05_lp1.0_lc1.0_m0.5/best.pt
+cand_01_lccr0.05_lp0.5_lc1.0_m0.5,0.05,0.5,1.0,0.5,0.18042085754374662,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_01_lccr0.05_lp0.5_lc1.0_m0.5/best.pt
+cand_02_lccr0.05_lp0.5_lc1.0_m1.0,0.05,0.5,1.0,1.0,0.18116901665315277,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_02_lccr0.05_lp0.5_lc1.0_m1.0/best.pt
+cand_07_lccr0.1_lp1.0_lc1.0_m0.5,0.1,1.0,1.0,0.5,0.18137369574622705,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_07_lccr0.1_lp1.0_lc1.0_m0.5/best.pt
+cand_12_lccr0.2_lp1.0_lc1.0_m1.0,0.2,1.0,1.0,1.0,0.18242399677471385,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_12_lccr0.2_lp1.0_lc1.0_m1.0/best.pt
+cand_05_lccr0.1_lp0.5_lc1.0_m0.5,0.1,0.5,1.0,0.5,0.18372161836042755,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_05_lccr0.1_lp0.5_lc1.0_m0.5/best.pt
+cand_04_lccr0.05_lp1.0_lc1.0_m1.0,0.05,1.0,1.0,1.0,0.1852300137159277,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_04_lccr0.05_lp1.0_lc1.0_m1.0/best.pt
+cand_08_lccr0.1_lp1.0_lc1.0_m1.0,0.1,1.0,1.0,1.0,0.1853777333137279,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_08_lccr0.1_lp1.0_lc1.0_m1.0/best.pt
+cand_10_lccr0.2_lp0.5_lc1.0_m1.0,0.2,0.5,1.0,1.0,0.18605122698949333,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_10_lccr0.2_lp0.5_lc1.0_m1.0/best.pt
+cand_11_lccr0.2_lp1.0_lc1.0_m0.5,0.2,1.0,1.0,0.5,0.18617979241687743,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_11_lccr0.2_lp1.0_lc1.0_m0.5/best.pt
+cand_06_lccr0.1_lp0.5_lc1.0_m1.0,0.1,0.5,1.0,1.0,0.18646293198638927,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_06_lccr0.1_lp0.5_lc1.0_m1.0/best.pt
+cand_09_lccr0.2_lp0.5_lc1.0_m0.5,0.2,0.5,1.0,0.5,0.18709600810470478,/content/drive/MyDrive/JBHI_1/checkpoints/resnet18/ccr_tune/seed_0/cand_09_lccr0.2_lp0.5_lc1.0_m0.5/best.pt

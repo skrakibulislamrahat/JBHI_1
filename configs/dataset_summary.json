@@ -1,0 +1,21 @@
+{
+  "aptos_2019": {
+    "csv": "/content/drive/MyDrive/JBHI_1/Datasets/APTOS_2019/train.csv",
+    "image_dir": "/content/drive/MyDrive/JBHI_1/Datasets/APTOS_2019/train_images",
+    "num_samples": 3662,
+    "label_distribution": {
+      "0": 1805,
+      "1": 370,
+      "2": 999,
+      "3": 193,
+      "4": 295
+    },
+    "missing_images": 0
+  },
+  "messidor_2": {
+    "root_dir": "/content/drive/MyDrive/JBHI_1/Datasets/Messidor_2",
+    "num_images": 1748,
+    "labels": "NOT_COMPUTED"
+  },
+  "created_utc": "2025-12-21T08:07:44Z"
+}
